@@ -7,6 +7,7 @@ function App() {
       <div className="row">
         <div className="col-md-6 mx-auto">
           <h1 className="text-center">TODO List</h1>
+          <List />
         </div>
       </div>
     </div>
